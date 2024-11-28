@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Matematica',
+    'quanto e 6x7?',
+    '42'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Conhecimentos Gerais',
+    'Normalmente, quantos litros de sangue uma pessoa tem? Em média, quantos são retirados numa doação de sangue?',
+    'Tem entre 4 a 6 litros. São retirados 450 mililitros'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Conhecimentos Gerais',
+    'Qual o livro mais vendido no mundo a seguir à Bíblia?',
+    'Dom Quixote'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Biologia',
+    'Os ossos são órgãos do corpo humano responsáveis por diversas funções, EXCETO:',
+    'Reserva de vitaminas'
 )
